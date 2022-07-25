@@ -1,0 +1,27 @@
+{
+  "name": "05-clima-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroLopez96/05-clima-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroLopez96/05-clima-app/issues"
+  },
+  "homepage": "https://github.com/AlejandroLopez96/05-clima-app#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.1",
+    "inquirer": "^7.3.3",
+    "lodash": "^4.17.21"
+  }
+}
